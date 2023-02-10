@@ -11,9 +11,6 @@ from moviepy.editor import ImageSequenceClip
 import random
 import math
 from collections import deque
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
-from tensorflow.keras.optimizers import Adam
 
 import itertools
 import threading
