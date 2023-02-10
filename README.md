@@ -1,4 +1,4 @@
 # Reinforcement learning (A3C)
 AI playing a cartpole game.  
-![image](Desktop\cartpole.png)
+![image1](Desktop/cartpole.png)
 
