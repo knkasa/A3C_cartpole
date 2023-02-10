@@ -1,1 +1,2 @@
-# a3c_cartpole
+# Reinforcement learning (A3C)
+AI playing a cartpole game.  
